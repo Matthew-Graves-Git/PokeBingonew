@@ -27,10 +27,6 @@ function App() {
     <div><Square  className="grid-item"/></div>
     <div><Square  className="grid-item"/></div>
     <div><Square  className="grid-item"/></div>
-    <div><Square  className="grid-item"/></div>
-    <div><Square  className="grid-item"/></div>
-    <div><Square  className="grid-item"/></div>
-    <div><Square  className="grid-item"/></div>
 
     
     
