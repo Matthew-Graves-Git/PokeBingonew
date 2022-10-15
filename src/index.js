@@ -13,10 +13,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Board from './components/BingoBoard';
+import Game from './BingoGame'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <Board/>
+    <Game/>
 );
 
 // If you want to start measuring performance in your app, pass a function
